@@ -1,4 +1,4 @@
-with open('Day_2\input.txt', encoding='utf-8') as inp:
+with open('input.txt', encoding='utf-8') as inp:
     moves_raw = inp.read()
 
 # Get the list of two-character strings with the moves, removing the space in between
